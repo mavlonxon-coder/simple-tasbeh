@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.count{
+    width: 236px;
+    height: 95px;
+    background-color: white;
+    position: absolute;
+    margin-top: -383px;
+    margin-left: 133px;
+    border-radius: 10px;
+    font-size: 100px;
+}
+.count p{
+    margin-left: 90px;
+}
+
+.reset{
+    width: 45px;
+    height: 45px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 307px;
+    position: absolute;
+    margin-top: -243px;
+    box-shadow: 0px 1px 1px 2px white;
+    cursor: pointer;
+}
+
+.increment{
+    width: 138px;
+    height: 138px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 181px;
+    margin-top: -215px;
+    position: absolute;
+    box-shadow: 0px 1px 1px 2px white;
+    cursor: pointer;
+}
+h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 29%;
+}
